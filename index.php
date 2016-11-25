@@ -21,3 +21,4 @@ function register_cpt_group_admin_menu() {
 }
 add_action('admin_menu', 'register_cpt_group_admin_menu');
 ?>
+B2
