@@ -9,8 +9,6 @@
 * License:			GPL12
 */
 ?>
-
-branch 02
 <?php
 // Register the Custom Custom Post Post Type
 
@@ -21,3 +19,4 @@ function register_cpt_group_admin_menu() {
 }
 add_action('admin_menu', 'register_cpt_group_admin_menu');
 ?>
+B2
